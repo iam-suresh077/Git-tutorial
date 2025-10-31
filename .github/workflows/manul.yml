@@ -8,7 +8,7 @@ on:
     inputs:
        Env:
         description: this current env
-        type : string
+        type : chioce
         options:
            - main
            - dev
